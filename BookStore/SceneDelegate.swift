@@ -19,7 +19,13 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let windowScene = (scene as? UIWindowScene) else { return }
         
         window = UIWindow(windowScene: windowScene)
-        let rootViewController = MainViewController()
+
+        let mainViewController = MainViewController()
+        
+        // Embed MainViewController in a UINavigationController
+        let navigationController = UINavigationController(rootViewController: mainViewController)
+        
+        let rootViewController = navigationController
         window?.rootViewController = rootViewController
         window?.makeKeyAndVisible()
     }

@@ -1,0 +1,3359 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 375,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4ld5AgAAQBAJ",
+      "etag": "I7Wifm5hemk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ld5AgAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS 7 Programming Pushing the Limits",
+        "subtitle": "Develop Advance Applications for Apple iPhone, iPad, and iPod Touch",
+        "authors": [
+          "Rob Napier",
+          "Mugunth Kumar"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-01-28",
+        "description": "Get ready to create killer apps for iPad and iPhone on the new iOS 7! With Apple's introduction of iOS 7, demand for developers who know the new iOS will be high. You need in-depth information about the new characteristics and capabilities of iOS 7, and that's what you'll find in this book. If you have experience with C or C++, this guide will show you how to create amazing apps for iPhone, iPad, and iPod touch. You'll also learn to maximize your programs for mobile devices using iPhone SDK 7.0. Advanced topics such as security services, running on multiple iPlatforms, and local networking with Core Bluetooth are also covered. Prepares experienced developers to create great apps for the newest version of Apple's iOS Thoroughly covers the serious capabilities of iOS 7; information you need in order to make your apps stand out Delves into advanced topics including how to control multitasking, security services, running apps on multiple iPlatforms and iDevices, enabling in-app purchases, advanced text layout, and building a core foundation Also covers REST, advanced GCD, internationalization and localization, and local networking with Core Bluetooth iOS 7 Programming: Pushing the Limits will help you develop applications that take full advantage of everything iOS 7 has to offer.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118818343"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118818342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 504,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4ld5AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4ld5AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=4ld5AgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=4ld5AgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iOS_7_Programming_Pushing_the_Limits.html?hl=&id=4ld5AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_7_Programming_Pushing_the_Limits-sample-pdf.acsm?id=4ld5AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ld5AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With Apple&#39;s introduction of iOS 7, demand for developers who know the new iOS will be high. You need in-depth information about the new characteristics and capabilities of iOS 7, and that&#39;s what you&#39;ll find in this book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EqEJEAAAQBAJ",
+      "etag": "TX4JH9g0lrY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EqEJEAAAQBAJ",
+      "volumeInfo": {
+        "title": "iPhone For Dummies",
+        "subtitle": "Updated for iPhone 12 models and iOS 14",
+        "authors": [
+          "Edward C. Baig",
+          "Bob LeVitus"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2020-12-30",
+        "description": "The latest edition – updated to cover iOS 14 and iPhone 12 Nothing seems to change faster than an iPhone. Just when you think you know your way around the device, a new update arrives and you have to learn everything all over again. This fully revised edition of iPhone For Dummies arrives just in time to keep you up to date on iOS 14, the version of the iOS operating system released in late 2020, as well as all the updated features of iPhone 12. But don’t worry if you’re sticking with your current iPhone or buying an older model. This book offers help on using any iPhone that runs iOS 14, all the way back to iPhone 6. Written by two longtime Apple fans and experts, this revised guide covers the essentials you’ll need to know about the industry-leading device and its slick iOS operating system, kicking off with set-up—navigating settings, hooking up to wifi, sharing audio and video—and then gearing you up to warp speed with the many incredible ways this smartphone’s tools and apps can bring a joyful extra dimension to your life. Explore the basics of iOS 14 Enhance your interests with apps Get artsy with photos, video, and more Troubleshoot common problems Learn what makes the iPhone 12 different than the 11, X, SE, or older models Whether you’re just getting started with a new phone or want to get even more from your current version, iPhone For Dummies puts the power right at your fingertips!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781119730026"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1119730023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EqEJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EqEJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=EqEJEAAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=EqEJEAAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iPhone_For_Dummies.html?hl=&id=EqEJEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iPhone_For_Dummies-sample-pdf.acsm?id=EqEJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EqEJEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This fully revised edition of iPhone For Dummies arrives just in time to keep you up to date on iOS 14, the version of the iOS operating system released in late 2020, as well as all the updated features of iPhone 12."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-J1WEAAAQBAJ",
+      "etag": "PgMFrcltmMo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-J1WEAAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS 15 Programming for Beginners",
+        "subtitle": "Kickstart your mobile app development journey by building iOS apps with Swift 5.5 and Xcode 13",
+        "authors": [
+          "Ahmad Sahar",
+          "Craig Clayton"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2021-12-24",
+        "description": "Key Features Explore the latest features of Xcode 13 and the Swift 5.5 programming language in this updated sixth edition Start your iOS programming career and have fun building your own iOS apps Discover the new features of iOS 15 such as Mac Catalyst, SwiftUI, Swift Concurrency, and SharePlay Book DescriptionWith almost 2 million apps on the App Store, iOS mobile apps continue to be incredibly popular. Anyone can reach millions of customers around the world by publishing their apps on the App Store. iOS 15 Programming for Beginners is a comprehensive introduction for those who are new to iOS. It covers the entire process of learning the Swift language, writing your own app, and publishing it on the App Store. Complete with hands-on tutorials, projects, and self-assessment questions, this easy-to-follow guide will help you get well-versed with the Swift language to build your apps and introduce exciting new technologies that you can incorporate into your apps. You'll learn how to publish iOS apps and work with Mac Catalyst, SharePlay, SwiftUI, Swift concurrency, and much more. By the end of this iOS development book, you'll have the knowledge and skills to write and publish interesting apps, and more importantly, to use the online resources available to enhance your app development journey.What you will learn Get to grips with the fundamentals of Xcode 13 and Swift 5.5, the building blocks of iOS development Understand how to prototype an app using storyboards Discover the Model-View-Controller design pattern and how to implement the desired functionality within an app Implement the latest iOS features such as Swift Concurrency and SharePlay Convert an existing iPad app into a Mac app with Mac Catalyst Design, deploy, and test your iOS applications with design patterns and best practices Who this book is for This book is for anyone who has programming experience but is new to Swift and iOS app development. Basics knowledge of programming, including loops, boolean, and so on, is necessary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781801812139"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1801812136"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.10.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-J1WEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-J1WEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=-J1WEAAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.15,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 38.15,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ&rdid=book--J1WEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38150000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 38150000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-J1WEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Key Features Explore the latest features of Xcode 13 and the Swift 5.5 programming language in this updated sixth edition Start your iOS programming career and have fun building your own iOS apps Discover the new features of iOS 15 such as ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FkPfBgAAQBAJ",
+      "etag": "dSZr1bUDYcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FkPfBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning iOS Security",
+        "authors": [
+          "Allister Banks",
+          "Charles S. Edge"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2015-02-27",
+        "description": "This book is intended for mobile security professionals who want to learn how to secure iOS operating systems and its applications. Any knowledge of iOS architecture would be an added advantage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781783553952"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1783553952"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FkPfBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FkPfBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=FkPfBgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FkPfBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FkPfBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 18.01,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 18.01,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FkPfBgAAQBAJ&rdid=book-FkPfBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 18010000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 18010000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FkPfBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is intended for mobile security professionals who want to learn how to secure iOS operating systems and its applications. Any knowledge of iOS architecture would be an added advantage."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S-IdRvZpP5MC",
+      "etag": "ptciZXdUAz0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S-IdRvZpP5MC",
+      "volumeInfo": {
+        "title": "iPad and iPhone Tips and Tricks",
+        "subtitle": "For iOS 5 on iPad 2 and iPhone 4/4s",
+        "authors": [
+          "Jason R. Rich"
+        ],
+        "publisher": "Que Publishing",
+        "publishedDate": "2012-01-24",
+        "description": "For iOS 5 on iPad 2 and iPhone 4/4s Discover hundreds of tips and tricks you can use with your iPad or iPhone to maximize its functionality as you use your iOS 5 mobile device as a powerful communication, organization, and productivity tool, as well as a feature-packed entertainment device. In addition to learning all about the apps that come preinstalled on your iPhone or iPad, you learn about some of the best third-party apps currently available and discover useful strategies for how to best utilize them. Using an easy-to-understand, nontechnical approach, this book is ideal for absolute beginners, as well as more experienced iPad or iPhone users who want to discover how to use the iOS 5 operating system with iCloud and the latest versions of popular apps. Here’s just a sampling of what the tips, tricks, and strategies offered in this book will help you accomplish: • Update your iPad or iPhone with the iOS 5 operating system. • Discover how to use the preinstalled apps on your iOS 5 device, including Notification Center and Reminders. • Take advantage of built-in apps such as Contacts, Calendars, Safari, Mail, and Music. • Learn how to best use Siri on the iPhone 4S. • Find, download, and install the most powerful and versatile apps and content for your iPad or iPhone. • Synchronize files, documents, data, and content with iCloud, your computer, or other iOS 5 devices. • Create and maintain a reliable backup of your iOS 5 device. • Use your iPad or iPhone as an eBook reader, portable gaming machine, and feature-packed music and video player.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132911436"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132911434"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 399,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S-IdRvZpP5MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S-IdRvZpP5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=S-IdRvZpP5MC&printsec=frontcover&dq=ios&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=S-IdRvZpP5MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=S-IdRvZpP5MC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.83,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.83,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=S-IdRvZpP5MC&rdid=book-S-IdRvZpP5MC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14830000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14830000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S-IdRvZpP5MC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here’s just a sampling of what the tips, tricks, and strategies offered in this book will help you accomplish: • Update your iPad or iPhone with the iOS 5 operating system. • Discover how to use the preinstalled apps on your iOS 5 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x1Ip3XLj2P0C",
+      "etag": "7LRRd2a4OPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x1Ip3XLj2P0C",
+      "volumeInfo": {
+        "title": "The Web Designer's Guide to iOS Apps",
+        "subtitle": "Create iPhone, iPod touch, and iPad apps with Web Standards (HTML5, CSS3, and JavaScript)",
+        "authors": [
+          "Kristofer Layon"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2010-12-02",
+        "description": "If you are a designer who knows HTML, CSS, and JavaScript, you can easily learn how to make native iPhone, iPod touch, and iPad apps—and distribute them worldwide via the App Store. When combined with an Objective-C framework, web standards can be used to format and style content for iOS, using native controls and behaviors for an authentic Apple user experience. The Web Designer’s Guide to iOS Apps shows how to create apps using NimbleKit, the Objective-C framework featured on the Apple Development Tools web site. With it you’ll learn how to: Download and install the free software for creating iOS apps Use Xcode to manage project assets, test apps, and package binary files Implement standard iOS elements and behaviors for familiar Apple mobile user experiences Enhance your app designs with HTML5 and CSS3 Build a foundation for designing web apps that can be delivered to other smartphones and mobile devices",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132562843"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132562847"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.9.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x1Ip3XLj2P0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x1Ip3XLj2P0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=x1Ip3XLj2P0C&printsec=frontcover&dq=ios&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x1Ip3XLj2P0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x1Ip3XLj2P0C"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.07,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.07,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x1Ip3XLj2P0C&rdid=book-x1Ip3XLj2P0C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19070000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19070000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x1Ip3XLj2P0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Web Designer’s Guide to iOS Apps shows how to create apps using NimbleKit, the Objective-C framework featured on the Apple Development Tools web site."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2D50GNA1ULsC",
+      "etag": "yIBnrafZKiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2D50GNA1ULsC",
+      "volumeInfo": {
+        "title": "Hacking and Securing IOS Applications",
+        "authors": [
+          "Jonathan Zdziarski"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012",
+        "description": "Based on unique and previously undocumented research, this book by noted iOS expert Jonathan Zdziarski shows the numerous weaknesses that exist in typical iPhone and iPad apps. Zdziarski shows finance companies, large institutions and others where the exploitable flaws lie in their code, and in this book he will show you as well, in a clear, direct, and immediately applicable style. More importantly, this book will teach the reader how to write more secure code to make breaching your applications more difficult. Topics cover manipulating the Objective-C runtime, debugger abuse, hijacking network traffic, implementing encryption, geo-encryption, PKI without depending on certificate authorities, how to detect and prevent debugging, infection testing and class validation, jailbreak detection, and much more. Hacking and Securing iOS Applications teaches corporate developers and penetration testers exactly how to break into the latest versions of Apple's iOS operating system, attack applications, and exploit vulnerabilities, so that they can write more secure applications with what they've learned. With the App Store reaching over a half-million applications, tools that work with personal or confidential data are becoming increasingly popular. Developers will greatly benefit from Jonathan's book by learning about all of the weaknesses of iOS and the Objective-C environment. Whether you're developing credit card payment processing applications, banking applications, or any other kind of software that works with confidential data, Hacking and Securing iOS Applications is a must-read for those who take secure programming seriously",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449318741"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449318746"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 357,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2D50GNA1ULsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2D50GNA1ULsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=2D50GNA1ULsC&printsec=frontcover&dq=ios&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=2D50GNA1ULsC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacking_and_Securing_IOS_Applications.html?hl=&id=2D50GNA1ULsC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2D50GNA1ULsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on unique and previously undocumented research, this book by noted iOS expert Jonathan Zdziarski shows the numerous weaknesses that exist in typical iPhone and iPad apps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tzozEAAAQBAJ",
+      "etag": "cXHCUde9x/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tzozEAAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS in Practice",
+        "authors": [
+          "Bear P. Cahill"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-10-18",
+        "description": "Summary iOS in Practice is a hands-on guide with 98 specific techniques to help solve the specific problems you'll encounter over and over as you work on your iPhone and iPad apps. You'll dig into the practical nuts and bolts of applying views, view controllers, table views and cells, audio, images, graphics, file structure—and more. Examples written for iOS 6. About this Book When you are building an iOS app, you want more than basic concepts—you want real answers to practical problems. You want iOS in Practice. This book distills the hard-won experience of iOS developer Bear Cahill into 98 specific iOS techniques on key topics including managing data, using media, location awareness, and many more. And the sample apps are wonderful! As you pull them apart, you'll see two things: experienced app development and creative design savvy in action. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. What's Inside WhereIsMyCar drives you through maps, CoreLocation, and camera access. PlayMyLists tunes in on settings, audio, and shake detection. Rock, Paper, Scissors explores networking, voice, in-app purchase, push notification, and invitations. Examples written for iOS 6 using Xcode 4.5. Written for readers who know the basics of Objective-C and are interested in practical app development. Table of Contents PART 1 GETTING STARTED Getting started with iOS development Creating an iOS application PART 2 PUTTING iOS INTO PRACTICE Using view controllers and images in PicDecor Accessing the address book/contacts in Dial4 MapKit and the camera in WhereIsMyCar Settings, audio, and shake detection in TimeDown CoreData, iPod access, and playing music—PlayMyLists Push notification and in-app purchase—Rock, Paper, Scissors GameCenter leaderboards and achievements—Rock, Paper, Scissors iTunes API, iPad, and iAd—MusicSearch Collection view, social, reminders, and state restoration—MeetSocial",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638351443"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638351449"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 492,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tzozEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tzozEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=tzozEAAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tzozEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tzozEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.78,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 39.78,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tzozEAAAQBAJ&rdid=book-tzozEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39780000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 39780000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_in_Practice-sample-epub.acsm?id=tzozEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tzozEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You want iOS in Practice. This book distills the hard-won experience of iOS developer Bear Cahill into 98 specific iOS techniques on key topics including managing data, using media, location awareness, and many more."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Bg9QDwAAQBAJ",
+      "etag": "gcL3GtIi4nU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bg9QDwAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS 10 SDK Development",
+        "subtitle": "Creating iPhone and iPad Apps with Swift",
+        "authors": [
+          "Chris Adamson",
+          "Janie Clayton"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2017-03-24",
+        "description": "All in on Swift! iOS 10 and Xcode 8 make it clearer than ever that Swift is Apple's language of the future. Core frameworks have been redesigned to work better with Swift, and the language itself continues to evolve quickly. iOS 10 SDK Development is the pure-Swift approach to developing for the iOS platform. This completely revised and updated edition of the bestselling iOS guide shows you how to pull in the SDK's enormous feature set and deliver powerful, real-world apps for iPhone and iPad using modern Swift programming techniques. Swift is the language of the future for iOS development, and this completely revised and updated book is your guide. From the community-driven changes in Swift 3 to the overhaul of iOS' Foundation framework to make it more \"Swifty,\" iOS 10 and Xcode 8 mark an \"all in\" commitment to Swift, and this new edition matches that commitment. Learn not just the syntax of the Swift language but also stylish Swift, the idiomatic uses of the language, and best practices you'll find in the wild. From there, move into developing a complete, real-world podcast client sample application-completely new for this edition-featuring Internet access, tables, navigation, and media playback, all with the most modern approaches provided by Apple's iOS 10 frameworks and tools. Go beyond code to master the practices that professional developers rely on: testing, debugging, publishing on the App Store, and managing your app over the long haul. As a bonus, you'll get a taste of cutting-edge iOS 10 features, such as the new Siri voice-command API. Swift's time is here. Whether you're new to Swift or just catching up on iOS' latest features, iOS 10 SDK Development will help you master the language and the platform.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680503708"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1680503707"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 373,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bg9QDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bg9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=Bg9QDwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=Bg9QDwAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iOS_10_SDK_Development.html?hl=&id=Bg9QDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bg9QDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From there, move into developing a complete, real-world podcast client sample application-completely new for this edition-featuring Internet access, tables, navigation, and media playback, all with the most modern approaches provided by ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MFwnCgAAQBAJ",
+      "etag": "LOySjiwmvMI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MFwnCgAAQBAJ",
+      "volumeInfo": {
+        "title": "More iPhone Development with Swift",
+        "subtitle": "Exploring the iOS SDK",
+        "authors": [
+          "Alex Horovitz",
+          "Kevin Kim",
+          "David Mark",
+          "Jeff LaMarche",
+          "Jayant Varma"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2015-03-31",
+        "description": "Interested in iPhone and iPad apps development? Want to learn more? Whether you are a relative newcomer to iPhone and iPad or iOS development or an old hand looking to expand your horizons, we have the perfect Swift-flavored book for you. The update to the bestselling More iPhone Development by Dave Mark and Jeff LaMarche, More iPhone Development with Swift digs deeper into the new Apple Swift programming language and iOS 8 SDK, explaining complex concepts and techniques in the same friendly, easy-to-follow style you’ve come to expect. More iPhone Development with Swift covers topics like Swift, Core Data, peer-to-peer networking using Multipeer Connectivity, working with data from the web, MapKit, in-application e-mail, Camera Live-Previews integration, Barcode scanning, Face recognition and more. All the concepts and APIs are clearly presented with code snippets you can customize and use, as you like, in your own apps. You’ll journey through coverage of concurrent programming and some advanced techniques for debugging your applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484204481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484204484"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MFwnCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MFwnCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=MFwnCgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=MFwnCgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/More_iPhone_Development_with_Swift.html?hl=&id=MFwnCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/More_iPhone_Development_with_Swift-sample-epub.acsm?id=MFwnCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/More_iPhone_Development_with_Swift-sample-pdf.acsm?id=MFwnCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MFwnCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "More iPhone Development with Swift covers topics like Swift, Core Data, peer-to-peer networking using Multipeer Connectivity, working with data from the web, MapKit, in-application e-mail, Camera Live-Previews integration, Barcode scanning, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gx0eBQAAQBAJ",
+      "etag": "kDeRmNwOOgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gx0eBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Business of iOS App Development",
+        "subtitle": "For iPhone, iPad and iPod touch",
+        "authors": [
+          "Dave Wooldridge",
+          "Taylor Pierce"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2014-10-29",
+        "description": "Updated and expanded for the new Apple iOS8, The Business of iOS App Development, Third Edition shows you how to incorporate marketing and business savvy into every aspect of the design and development process, giving your app the best possible chance of succeeding in the App Store. This book is written by experienced developers with business backgrounds, taking you step-by-step through cost-effective marketing techniques that have proven successful for professional iOS app creators—perfect for independent developers on shoestring budgets. No prior business knowledge is required. The phenomenal success of the iPhone, iPad and the iPod touch have ushered in a \"gold rush\" for developers, but with well over a million apps in the highly competitive App Store, it has become increasingly difficult for new apps to stand out in the crowd. Achieving consumer awareness and sales longevity for your iOS app requires a lot of organization and some strategic planning. This is the book you wish you had read before you launched your first app!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430262398"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430262397"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gx0eBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gx0eBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=Gx0eBQAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=Gx0eBQAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Business_of_iOS_App_Development.html?hl=&id=Gx0eBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/The_Business_of_iOS_App_Development-sample-epub.acsm?id=Gx0eBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/The_Business_of_iOS_App_Development-sample-pdf.acsm?id=Gx0eBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gx0eBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Achieving consumer awareness and sales longevity for your iOS app requires a lot of organization and some strategic planning. This is the book you wish you had read before you launched your first app!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q9MsAwAAQBAJ",
+      "etag": "dQzKDeLHlUI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q9MsAwAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS App Development For Dummies",
+        "authors": [
+          "Jesse Feiler"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-04-14",
+        "description": "If you’ve got incredible iOS ideas, get this book and bring them to life! iOS 7 represents the most significant update to Apple’s mobile operating system since the first iPhone was released, and even the most seasoned app developers are looking for information on how to take advantage of the latest iOS 7 features in their app designs. That’s where iOS App Development For Dummies comes in! Whether you’re a programming hobbyist wanting to build an app for fun or a professional developer looking to expand into the iOS market, this book will walk you through the fundamentals of building a universal app that stands out in the iOS crowd. Walks you through joining Apple’s developer program, downloading the latest SDK, and working with Apple’s developer tools Explains the key differences between iPad and iPhone apps and how to use each device’s features to your advantage Shows you how to design your app with the end user in mind and create a fantastic user experience Covers using nib files, views, view controllers, interface objects, gesture recognizers, and much more There’s no time like now to tap into the power of iOS – start building the next big app today with help from iOS App Development For Dummies!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118871058"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118871057"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q9MsAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q9MsAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=q9MsAwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=q9MsAwAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iOS_App_Development_For_Dummies.html?hl=&id=q9MsAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_App_Development_For_Dummies-sample-pdf.acsm?id=q9MsAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q9MsAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you’ve got incredible iOS ideas, get this book and bring them to life! iOS 7 represents the most significant update to Apple’s mobile operating system since the first iPhone was released, and even the most seasoned app developers are ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xCYiAgAAQBAJ",
+      "etag": "zEBZhB8b2Yk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xCYiAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Creating iOS Apps",
+        "subtitle": "Develop and Design",
+        "authors": [
+          "Richard Warren"
+        ],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2013-11-20",
+        "description": "With more than 600 million iOS devices sold, Apple’s booming mobile platform provides a immense and continuously growing app market for developers. And with each update to the iOS SDK, Apple offers the richest set of additional developer tools. iOS 7.0 is no exception. iOS programming expert Richard Warren shows you how to use these powerful tools to begin writing the next generation of iOS apps. You will hone your development skills by creating a complete, full-featured mobile application. You’ll learn to build an intuitive and beautiful user interface, beginning with linking View Controllers in the Storyboard and then adding custom drawn views. Next, you will learn how to use iCloud storage and Core Data to manage an app’s data model, synchronizing data across multiple devices. Then you will learn ways to make your app stand out, using more advanced iOS techniques like UIKit Dynamics and UIMotionEffects. Finally, Richard shows you how to prepare your app for submission to the App Store, getting it in front of iOS users around the world. This book includes: Real-world guidance and advice Insight into the current best practices from an iOS programming expert An essential introduction to the Objective-C language and Cocoa design patterns Coverage of key iOS 7.0 technologies, including the asset catalog, dynamic fonts, UIKit Dynamics, UIMotionEffects, Sprite Kit, and more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133440829"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133440826"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 513,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xCYiAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xCYiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=xCYiAgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=xCYiAgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Creating_iOS_Apps.html?hl=&id=xCYiAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xCYiAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book includes: Real-world guidance and advice Insight into the current best practices from an iOS programming expert An essential introduction to the Objective-C language and Cocoa design patterns Coverage of key iOS 7.0 technologies, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "476pK87yq-QC",
+      "etag": "T/UJG8EtMeE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/476pK87yq-QC",
+      "volumeInfo": {
+        "title": "iPad and iPhone Tips and Tricks (Covers iOS 6 on iPad, iPad mini, and iPhone)",
+        "authors": [
+          "Jason R. Rich"
+        ],
+        "publisher": "Que Publishing",
+        "publishedDate": "2012-12-27",
+        "description": "Easily Unlock the Power of Your iPad, iPad mini, or iPhone Discover hundreds of tips and tricks you can use right away with your iPad, iPad mini, or iPhone to maximize its functionality. Learn to use your iOS 6 mobile device as a powerful communication, organization, and productivity tool, as well as a feature-packed entertainment device. In addition to learning all about the apps that come preinstalled on your iPad or iPhone, you will learn about some of the best third-party apps currently available, plus discover useful strategies for how to best utilize them in your personal and professional life. Using an easy-to-understand, nontechnical approach, this book is ideal for beginners and more experienced iPad, iPad mini, or iPhone users who want to discover how to use the iOS 6 operating system with iCloud, and the latest versions of popular apps. If you’re an iPad 2, iPad 3rd or 4th generation, iPad mini, iPhone 4S, or iPhone 5 user, this book is an indispensible tool. Here’s just a sampling of what the tips, tricks, and strategies offered in this book will help you accomplish: Discover how to take full advantage of powerful iOS 6 features, like Notification Center. Learn secrets for using preinstalled apps, such as Contacts, Calendars, Reminders, Maps, Notes, Safari, Mail, and Music. Find, download, and install the most powerful and versatile apps and content for your iPad, iPad mini, or iPhone. Synchronize files, documents, data, photos, and content with iCloud, your computer, or other iOS mobile devices. Learn how to interact with your tablet or phone using your voice in conjunction with Siri and the Dictation feature. Create and maintain a reliable backup of your iOS 6 device. Discover how to take visually impressive photos using the cameras built into your iPad, iPad mini, or iPhone, and then share them using iCloud Shared Photo Streams, Facebook, Twitter, email, or other methods. Use your iOS mobile device as an eBook reader, portable gaming machine, and feature-packed music and video player.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133143478"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133143473"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.14.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=476pK87yq-QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=476pK87yq-QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=476pK87yq-QC&printsec=frontcover&dq=ios&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=476pK87yq-QC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=476pK87yq-QC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.53,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.53,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=476pK87yq-QC&rdid=book-476pK87yq-QC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9530000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9530000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=476pK87yq-QC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Using an easy-to-understand, nontechnical approach, this book is ideal for beginners and more experienced iPad, iPad mini, or iPhone users who want to discover how to use the iOS 6 operating system with iCloud, and the latest versions of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cwZTvgAACAAJ",
+      "etag": "Y+uzDN6xdPA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cwZTvgAACAAJ",
+      "volumeInfo": {
+        "title": "IOS Development with Swift",
+        "authors": [
+          "Craig Grummit"
+        ],
+        "publisher": "Manning Publications",
+        "publishedDate": "2017-12",
+        "description": "\"iOS development with Swift\" is a hands-on guide to creating iOS apps. It takes you through the experience of building an app-- from idea to App store. After setting up your dev environment, you'll learn the basics by experimenting in Swift playgrounds. Then you'll build a simple app layout, adding features like animations and UI widgets. Along the way, you'll retrieve, format, and display data; interact with the camera and other device features; and touch on cloud and networking basics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1617294071"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617294075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": [
+          "Computer software"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cwZTvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cwZTvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=cwZTvgAACAAJ&dq=ios&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=cwZTvgAACAAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/IOS_Development_with_Swift.html?hl=&id=cwZTvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cwZTvgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And with this book, you&#39;ll get started fast. About the Book iOS Development with Swift is a hands-on guide to creating iOS apps. It takes you through the experience of building an app—from idea to App Store."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1SbMAQAAQBAJ",
+      "etag": "CsCmDsgLnpo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1SbMAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning iOS Development",
+        "subtitle": "A Hands-on Guide to the Fundamentals of iOS Programming",
+        "authors": [
+          "Maurice Sharp",
+          "Erica Sadun",
+          "Rod Strougo"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2013-10-25",
+        "description": "Covers iOS 7 and Xcode 5 Learning iOS Developmentis the perfect first book for every new iOS 7 developer. It delivers a complete foundation for iOS development, including an introduction to the Objective-C language, Xcode development tools, best-practice user interface development, and best practices for all aspects of app development and deployment. Throughout Learning iOS Development, you explore the iOS development process as you create and expand a handy car valet app. The hands-on projects enable you to create meaningful code as soon as possible, building confidence and mastery. The annotated code listings work with all the latest iOS technology, so you’ll be ready to jump into this exciting development field. With Learning iOS Development, it’s easy to learn at your own pace, on your own--or to deepen the knowledge you may be gaining in a classroom or workplace. Coverage includes Installing all the tools, programs, and devices you need to create iOS apps Building your first app and mastering the essentials of Objective-C Making the most effective use of device memory Storyboarding your interface and connecting it to your underlying code Using Auto Layout to support devices with different sizes and orientations Managing app data with Core Data Creating sophisticated custom gestures Deploying your app through Apple’s App Store Quickly localizing your app for multiple languages and countries Implementing scrolling, navigation, table views, and other core iOS features Mastering advanced table views and navigation, including iPad split views Passing code encapsulated in blocks for communicating between parts of your app and with the system Tuning and debugging your apps for the best performance and quality Discovering great resources to take your next steps as an iOS developer",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133094534"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133094537"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 591,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1SbMAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1SbMAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=1SbMAQAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=1SbMAQAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_iOS_Development.html?hl=&id=1SbMAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1SbMAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Covers iOS 7 and Xcode 5 Learning iOS Developmentis the perfect first book for every new iOS 7 developer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uXdMAQAAQBAJ",
+      "etag": "Vd0Hj2/eedo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uXdMAQAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS Components and Frameworks",
+        "subtitle": "Understanding the Advanced Features of the iOS SDK",
+        "authors": [
+          "Kyle Richter",
+          "Joe Keeley"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2013-10-08",
+        "description": "Take Your Next Leap Forward as an iOS App Developer! Covers iOS 7 and Xcode 5 iOS Components and Frameworks will help you leverage iOS’s powerful components and frameworks to build apps with outstanding performance, reliability, interactivity, media support, and customization. Pioneering iOS developers Kyle Richter and Joe Keeley illuminate the sophisticated intermediate-to-advancedlevel techniques you’re now ready for. You’ll find example-rich coverage of topics ranging from social support to security, Core Data, TextKit, iCloud support, UIKit Dynamics, MapKit, and Passbook. There’s also a complete section on advanced performance and security, including the effective use of Grand Central Dispatch and Keychain. Each chapter contains a complete sample project that walks you through integrating its technology into a typical iOS app. You’ll discover how multiple iOS features can be combined into exceptionally powerful apps and walk through a complete case study project: a fully functional game with complete Game Center integration. Coverage includes: New physics-based animation effects provided by UIKit Dynamics Making the most of Core Location, MapKit, and Geofencing Leveraging Game Center features such as Leader Boards and Achievements Giving users access to their address and media libraries from within your app Using lightweight JSON to move data among servers, apps, and websites Syncing apps via iCloud using UIDocument and key-value store syncing Securing user data with Keychain Informing users of important app-related events via Notifications Storing and retrieving persistent data locally with Core Data Using advanced Objective-C features to write more manageable, concise apps Improving responsiveness through concurrency with Grand Central Dispatch Advanced text handling and display with TextKit Smoothly handling complex and continuous gestures Effective debugging techniques with Xcode 5 and Instruments Building passes for Passbook and PassKit If you’re a serious iOS developer who wants to build cutting-edge apps, iOS Components and Frameworks delivers the practical skills, reusable code, and expert insights you’re looking for.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133086881"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133086887"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.11.10.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uXdMAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uXdMAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=uXdMAQAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uXdMAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uXdMAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 18.01,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 18.01,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uXdMAQAAQBAJ&rdid=book-uXdMAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 18010000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 18010000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uXdMAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Coverage includes: New physics-based animation effects provided by UIKit Dynamics Making the most of Core Location, MapKit, and Geofencing Leveraging Game Center features such as Leader Boards and Achievements Giving users access to their ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7pY3DwAAQBAJ",
+      "etag": "slncgqM8zQY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7pY3DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn iOS Application Distribution",
+        "subtitle": "Successfully Distribute Apps",
+        "authors": [
+          "Hagop Panosian"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2017-09-27",
+        "description": "Cover every aspect of the app industry, from app idea generation through to marketing and performance monitoring. With this book you'll receive complete, reliable, up-to-date, and professional information and guidance. Learn iOS App Distribution is every developers thorough and accessible guide to successfully distributing apps. For readers who already know how to code and create apps, this book explains how the app industry works, how it is evolving, and what the key trends are. Rather than focus on the well-covered aspects of working with Swift and Xcode, you'll instead discover what it takes from a commercial standpoint to bring an app together and get it successfully out to customers. All the key technical aspects are simplified for you with non-technical backgrounds, and vast amounts of information are condensed into easy-to-understand visuals. What You'll Learn Review how the app industry nuances and how it works Analyze app statistics and key market trends Position an app appropriately within the industry Improve app performance and related products and services Who This Book Is For App designers, UI/UX design professionals, coders, app marketers, game designers, asset designers and app publishing companies.The book is also suitable for inventors and non-tech readers unfamiliar with the industry but interested in investing in apps",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484226834"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484226836"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 282,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7pY3DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7pY3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=7pY3DwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=7pY3DwAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_iOS_Application_Distribution.html?hl=&id=7pY3DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Learn_iOS_Application_Distribution-sample-epub.acsm?id=7pY3DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Learn_iOS_Application_Distribution-sample-pdf.acsm?id=7pY3DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7pY3DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cover every aspect of the app industry, from app idea generation through to marketing and performance monitoring. With this book you&#39;ll receive complete, reliable, up-to-date, and professional information and guidance."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZKa3Fe9V7zYC",
+      "etag": "LN5srs5LIJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKa3Fe9V7zYC",
+      "volumeInfo": {
+        "title": "Beginning iOS Apps with Facebook and Twitter APIs",
+        "subtitle": "for iPhone, iPad, and iPod touch",
+        "authors": [
+          "Chris Dannen",
+          "Christopher White"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2011-10-08",
+        "description": "Beginning iOS Apps with Facebook and Twitter APIs shows you how to add the power of social networking to your mobile apps on iPhone, iPad, and iPod touch. With this book as your guide, you can write apps that connect to Facebook and Twitter quickly, securely, and discreetly. Instead of starting from scratch, you will build on the vast resources, data storage capacity, and familiar features of these platforms which have become part of everyday life for hundreds of millions of users worldwide. Beginning iOS Apps with Facebook and Twitter APIs introduces you to the development tools, techniques, and design practices you will need to work with the APIs. It helps you decide whether to use Facebook, Twitter, or both, and explains the important issues of design, branding, and permissible use guidelines. You will learn how to guarantee privacy and use OAuth for authentication and single sign-on. Create news apps, shopping apps, contact apps, GPS apps, guides, and more, that let users transparently: Sign on once, then freely work with and manage their Facebook and Twitter accounts Publish game high scores, post likes, links, and status updates Send messages, share pictures, and forward Tweets Tweet a link to an event, show themselves as attending, and see who else is there Show Tweets that are relevant to a topic within a news app Show Tweets about a restaurant Organize a group or community From time to time, new forms of communication come along that make it easier for people to communicate and manage their social lives. Like phone calls and SMS before them, Facebook and Twitter have, in a short time, become essential parts of the social fabric of life for an ever-growing number of people throughout the world. The knowledge you'll gain from Beginning iOS Apps with Facebook and Twitter APIs will help you create exciting and popular iOS apps that your users will rely on every day to help make their lives more meaningful and connected.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430235439"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430235438"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZKa3Fe9V7zYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZKa3Fe9V7zYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=ZKa3Fe9V7zYC&printsec=frontcover&dq=ios&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=ZKa3Fe9V7zYC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iOS_Apps_with_Facebook_and_Twi.html?hl=&id=ZKa3Fe9V7zYC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Apps_with_Facebook_and_Twi-sample-epub.acsm?id=ZKa3Fe9V7zYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Apps_with_Facebook_and_Twi-sample-pdf.acsm?id=ZKa3Fe9V7zYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZKa3Fe9V7zYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book as your guide, you can write apps that connect to Facebook and Twitter quickly, securely, and discreetly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g3WBDwAAQBAJ",
+      "etag": "Td/UjCHPMtM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g3WBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS 12 Programming for Beginners",
+        "subtitle": "An introductory guide to iOS app development with Swift 4.2 and Xcode 10, 3rd Edition",
+        "authors": [
+          "Craig Clayton"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-12-24",
+        "description": "Begin your iOS 12 app development journey with this practical guide Key FeaturesKick-start your iOS programming career and have fun building iOS apps of your choiceGet to grips with Xcode 10 and Swift 4.2, the building blocks of iOS developmentDiscover the latest features of iOS 12 - SiriKit, notifications, and much moreBook Description Want to build iOS 12 applications from scratch with the latest Swift 4.2 language and Xcode 10 by your side? Forget sifting through tutorials and blog posts; this book is a direct route to iOS development, taking you through the basics and showing you how to put principles into practice. Take advantage of this developer-friendly guide and start building applications that may just take the App Store by storm! If you’re already an experienced programmer, you can jump right in and learn the latest iOS 12 features. For beginners, this book starts by introducing you to iOS development as you learn Xcode and Swift. You'll also study advanced iOS design topics, such as gestures and animations, to give your app the edge. You’ll explore the latest Swift 4.2 and iOS 12 developments by incorporating new features, such as the latest in notifications, custom-UI notifications, maps, and the recent additions in Sirikit. The book will guide you in using TestFlight to quickly get to grips with everything you need to get your project on the App Store. By the end of this book, you'll be ready to start building your own cool iOS applications confidently. What you will learnExplore the distinctive design principles that define the iOS user experienceNavigate panels within an Xcode projectUse the latest Xcode asset catalogue of Xcode 10Create a playgrounds project within your projects and understand how Ranges and Control flow workStudy operations with integers and work your way through if statementsBuild a responsive UI and add privacy to your custom-rich notificationsSet up Sirikit to add voice for Siri shortcutsCollect valuable feedback with TestFlight before releasing your apps on the App StoreWho this book is for This book is for you if you are completely new to Swift, iOS, or programming and want to make iOS applications. However, you’ll also find this book useful if you’re an experienced programmer looking to explore the latest iOS 12 features.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789348354"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789348358"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g3WBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g3WBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=g3WBDwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g3WBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g3WBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30.73,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 30.73,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g3WBDwAAQBAJ&rdid=book-g3WBDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30730000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 30730000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g3WBDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book will guide you in using TestFlight to quickly get to grips with everything you need to get your project on the App Store. By the end of this book, you&#39;ll be ready to start building your own cool iOS applications confidently."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1kDcjKcz9GwC",
+      "etag": "fGQcqiMcunI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1kDcjKcz9GwC",
+      "volumeInfo": {
+        "title": "iOS Hacker's Handbook",
+        "authors": [
+          "Charlie Miller",
+          "Dion Blazakis",
+          "Dino DaiZovi",
+          "Stefan Esser",
+          "Vincenzo Iozzo",
+          "Ralf-Philip Weinmann"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2012-04-30",
+        "description": "Discover all the security risks and exploits that can threaten iOS-based mobile devices iOS is Apple's mobile operating system for the iPhone and iPad. With the introduction of iOS5, many security issues have come to light. This book explains and discusses them all. The award-winning author team, experts in Mac and iOS security, examines the vulnerabilities and the internals of iOS to show how attacks can be mitigated. The book explains how the operating system works, its overall security architecture, and the security risks associated with it, as well as exploits, rootkits, and other payloads developed for it. Covers iOS security architecture, vulnerability hunting, exploit writing, and how iOS jailbreaks work Explores iOS enterprise and encryption, code signing and memory protection, sandboxing, iPhone fuzzing, exploitation, ROP payloads, and baseband attacks Also examines kernel debugging and exploitation Companion website includes source code and tools to facilitate your efforts iOS Hacker's Handbook arms you with the tools needed to identify, understand, and foil iOS attacks.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118240755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118240758"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 409,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1kDcjKcz9GwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1kDcjKcz9GwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=1kDcjKcz9GwC&printsec=frontcover&dq=ios&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1kDcjKcz9GwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1kDcjKcz9GwC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 28.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1kDcjKcz9GwC&rdid=book-1kDcjKcz9GwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 28990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Hacker_s_Handbook-sample-epub.acsm?id=1kDcjKcz9GwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Hacker_s_Handbook-sample-pdf.acsm?id=1kDcjKcz9GwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1kDcjKcz9GwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With the introduction of iOS5, many security issues have come to light. This book explains and discusses them all."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ITvMnQYIzRYC",
+      "etag": "G6U1FD7ik2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ITvMnQYIzRYC",
+      "volumeInfo": {
+        "title": "Essential iOS Build and Release",
+        "subtitle": "A Comprehensive Guide to Building, Packaging, and Distribution",
+        "authors": [
+          "Ron Roche"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-12-19",
+        "description": "Frustrated by the requirements for testing and distributing your iOS app? You’re not alone. This concise book takes you step by step through the maze of certification and provisioning processes that have to happen before, during, and after development. You’ll learn what’s required to sign certificates, test your app on iOS devices, and release the finished product to the App Store. Whether you’re a developer looking to spend more time coding and less time figuring out how to install your application, or a release engineer responsible for producing reliable builds, this guide will help you successfully navigate the build and release processes for your iOS app. Get an overview of the iOS Dev Center, including the iOS Provisioning Portal, Member Center, and iTunes Connect Create your App ID, and generate signing certificates for development and distribution Manage the provisioning profiles necessary to test your app on iOS devices Learn common scenarios for iOS Simulator, Ad Hoc, and App Store distribution builds Automate the process to continuously build, sign, and package your app(s) for distribution",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449326388"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449326382"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ITvMnQYIzRYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ITvMnQYIzRYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=ITvMnQYIzRYC&printsec=frontcover&dq=ios&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ITvMnQYIzRYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ITvMnQYIzRYC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 10.07,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 10.07,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ITvMnQYIzRYC&rdid=book-ITvMnQYIzRYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 10070000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 10070000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ITvMnQYIzRYC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You’re not alone. This concise book takes you step by step through the maze of certification and provisioning processes that have to happen before, during, and after development."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bhObDwAAQBAJ",
+      "etag": "DU4a0ypdpb4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bhObDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning iPhone Development with Swift 5",
+        "subtitle": "Exploring the iOS SDK",
+        "authors": [
+          "Wallace Wang"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-05-31",
+        "description": "Learn how to integrate all the interface elements iOS users have come to know and love, such as buttons, switches, pickers, toolbars, and sliders. In this edition of the best selling book, you’ll also learn about touch gestures, table views, and collection views for displaying data on a user interface. Assuming little or no working knowledge of the Swift programming language, and written in a friendly, easy-to-follow style, this book offers a comprehensive course in iPhone and iPad programming. The book starts with a gentle introduction to using Xcode and then guides you though the creation of your first simple application. You’ll start with designing basic user interfaces and then explore more sophisticated ones that involve multiple screens such as navigation controllers, tab bars, tool bars, page views, and split views that are particularly useful on the larger screens of the iPad and certain iPhone models. And there’s much more! Beginning iPhone Development with Swift 5 covers the basic information you need to get up and running quickly to turn your great ideas into working iOS apps. Once you’re ready, move on to Pro iPhone Development with Swift 5 to learn more of the really unique aspects of iOS programming and the Swift language. What You Will Learn Discover what data persistence is, and why it’s importantBuild cool, crisp user interfacesDisplay data in Table ViewsWork with all the most commonly used iOS Frameworks Who This Book is For Aspiring iOS app developers new to the Apple Swift programming language and/or the iOS SDK.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484248652"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484248651"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 653,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bhObDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bhObDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=bhObDwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=bhObDwAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iPhone_Development_with_Swift.html?hl=&id=bhObDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iPhone_Development_with_Swift-sample-epub.acsm?id=bhObDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iPhone_Development_with_Swift-sample-pdf.acsm?id=bhObDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bhObDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this edition of the best selling book, you’ll also learn about touch gestures, table views, and collection views for displaying data on a user interface."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I-APn5-ipZUC",
+      "etag": "d0UB3F6S0kI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I-APn5-ipZUC",
+      "volumeInfo": {
+        "title": "From Idea to App",
+        "subtitle": "Creating iOS UI, animations, and gestures",
+        "authors": [
+          "Shawn Welch"
+        ],
+        "publisher": "Pearson Education",
+        "publishedDate": "2011-03-17",
+        "description": "There may be “an app for that,” but every app starts as an idea. Ideas can come from anyone—designers or developers, marketing managers or CEOs—and this book is about bringing those ideas to life. iOS is a remarkable platform, both from a technology standpoint and as a pure business opportunity. With over 10 billion apps downloaded through the iTunes App Store, and over 50 million new iOS devices expected to ship in 2011, no other platform puts big business and individual developers on a level playing field like iOS does. Needless to say, if you have an idea for an app, now is the time to make it happen. Whether you’re a designer or a developer, this book will help you: Create basic user interface elements Understand navigation metaphors and practices Design for multiple devices Customize system UI elements Incorporate system-provided and custom animations Use touch- and motion-based gestures Create UIViews and UIViewControllers using Core Graphics Avoid rejection by the iTunes App Store",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780132575331"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0132575337"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I-APn5-ipZUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I-APn5-ipZUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=I-APn5-ipZUC&printsec=frontcover&dq=ios&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=I-APn5-ipZUC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/From_Idea_to_App.html?hl=&id=I-APn5-ipZUC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I-APn5-ipZUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether you’re a designer or a developer, this book will help you: Create basic user interface elements Understand navigation metaphors and practices Design for multiple devices Customize system UI elements Incorporate system-provided and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-1WmxArkwiEC",
+      "etag": "Xe8EZWDgz5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-1WmxArkwiEC",
+      "volumeInfo": {
+        "title": "Programming IOS 5",
+        "subtitle": "Fundamentals of IPhone, IPad, and IPod Touch Development",
+        "authors": [
+          "Matt Neuburg"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-03-15",
+        "description": "Get a solid grounding in the fundamentals of Cocoa Touch, and avoid problems during iPhone and iPad app development. With this revised and expanded edition, you’ll dig into Cocoa and learn how to work effectively with Objective-C and Xcode. This book covers iOS 5 and Xcode 4.3 in a rigorous, orderly fashion—ideal whether you’re approaching iOS for the first time or need a reference to bolster existing skills. Many discussions have been expanded or improved. All code examples have been revised, and many new code examples have been added. The new memory management system—ARC—is thoroughly explained and all code examples have been revised to use it. New Objective-C features, such as declaration of instance variables in the class’s implementation section, are described and incorporated into the revised example code. Discussion of how an app launches, and all code examples, are revised for project templates from Xcode 4.2 and later. Other new Xcode features, including the Simulator’s Debug menu, are covered, with screen shots based on Xcode 4.2 and later. The discussion of Instruments is expanded, with screen shots—by popular request! Storyboards are explained and discussed. The explanation of view controllers is completely rewritten to include iOS 5 features, such as custom parent view controllers and UIPageViewController. The Controls chapter now includes iOS 5 interface customizability and the appearance proxy. New features of interface classes are discussed, including tiling and animated images, new table view features, new alert view styles. Coverage of frameworks such as Core Motion and AV Foundation is greatly expanded. New iOS 5 classes and frameworks are also discussed, including Core Image and UIDocument (and iCloud support). Important iOS 5 changes that can break existing code are explicitly called out in the text and listed in the index.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449327132"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449327133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1015,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-1WmxArkwiEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-1WmxArkwiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=-1WmxArkwiEC&printsec=frontcover&dq=ios&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=-1WmxArkwiEC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_IOS_5.html?hl=&id=-1WmxArkwiEC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-1WmxArkwiEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book covers iOS 5 and Xcode 4.3 in a rigorous, orderly fashion—ideal whether you’re approaching iOS for the first time or need a reference to bolster existing skills. Many discussions have been expanded or improved."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ek_1AgAAQBAJ",
+      "etag": "OUXpCHRsXTg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ek_1AgAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning iOS Programming",
+        "subtitle": "Building and Deploying iOS Applications",
+        "authors": [
+          "Nick Harris"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-02-27",
+        "description": "iOS 7 changed everything—get up to speed! iOS 7 is a major shift in the look and feel of apps—the first major sea change since the iPhone was first introduced. For apps to blend in with the new UI, each needs a complete redesign. Beginning iOS Programming: Building and Deploying iOS Applications starts at the beginning—including an introduction to Objective C—and gives you the skills you need to get your apps up and running. Author Nick Harris has extensive experience developing for iOS and provides a solid background for teaching the building blocks of app development. Learn Objective-C and how it differs from other programming languages Turn your app idea into an actionable plan Build each feature with the help of standalone chapters Assemble your project into a real-world iOS app Throughout the book, you'll be able to experiment with dozens of recipes from real-life scenarios, creating an app as you learn. The book's website features download sample apps to follow along with the instruction, and sample code to illustrate ideas.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118841440"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118841441"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ek_1AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ek_1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=ek_1AgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=ek_1AgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iOS_Programming.html?hl=&id=ek_1AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Programming-sample-epub.acsm?id=ek_1AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Programming-sample-pdf.acsm?id=ek_1AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ek_1AgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Programmer Forums Join our Programmer to Programmer forums to ask and answer programming questions about this book, join discussions on the hottest topics in the industry, and connect with fellow programmers from around the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mHQ7DwAAQBAJ",
+      "etag": "UH2nhvrtnzg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mHQ7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning iPhone Development with Swift 4",
+        "subtitle": "Exploring the iOS SDK",
+        "authors": [
+          "Molly K. Maskrey"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2017-10-24",
+        "description": "Learn how to integrate all the interface elements iOS users have come to know and love, such as buttons, switches, pickers, toolbars, and sliders. In this edition of the best selling book, you’ll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs. Assuming little or no working knowledge of the Swift programming language, and written in a friendly, easy-to-follow style, this book offers a comprehensive course in iPhone and iPad programming. The book starts with the basics, walking through the process of downloading and installing Xcode and the iOS 11 SDK, and then guides you though the creation of your first simple application. The art of table building will be demystified, and you’ll learn how to save your data using the iOS file system. You'll see how to to create, load and work with playgrounds as you develop an understanding of the Swift language. You’ll also learn how to save and retrieve your data using a variety of persistence techniques, including Core Data and SQLite. And there’s much more! Beginning iPhone Development with Swift 4 covers the basic information you need to get up and running quickly with your iOS apps. Once you’re ready, move on to Professional iPhone Development with Swift 4 to learn more of the really unique aspects of the SDK and Swift language. What You Will Learn Discover what data persistence is, and why it’s important Build cool, crisp user interfaces Display data in Table Views Work with all the most commonly used iOS Frameworks Who This Book is For Aspiring iOS app developers new to the Apple Swift programming language and/or the iOS SDK.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484230725"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484230728"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mHQ7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mHQ7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=mHQ7DwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=mHQ7DwAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iPhone_Development_with_Swift.html?hl=&id=mHQ7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iPhone_Development_with_Swift-sample-epub.acsm?id=mHQ7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iPhone_Development_with_Swift-sample-pdf.acsm?id=mHQ7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mHQ7DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this edition of the best selling book, you’ll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OYYca-T5TW8C",
+      "etag": "0Rz5W44hFG4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OYYca-T5TW8C",
+      "volumeInfo": {
+        "title": "iOS Wow Factor",
+        "subtitle": "UX Design Techniques for iPhone and iPad",
+        "authors": [
+          "Timothy Wood"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2012-01-11",
+        "description": "With the millions of apps in the crowded Apple iTunes App Store, it can be difficult to get your apps noticed. How can you make your app stand out from the crowd and get it the reviews it deserves? iOS Wow Factor shows you how to get noticed! It explains how to go beyond the basics and where to \"break the rules\" to give your users a \"wow\" experience! You'll learn to use standard controls, as well as to create non-standard controls and high-impact custom interactions to realize truly compelling app designs. Get grounded in Apple's Human Interface Guidelines (HIG) so that you can appreciate all its wisdom. From that excellent foundation, move beyond the HIG and learn how to ensure that all your apps have that \"wow\" factor. Learn all about user experience (UX) design techniques, with and beyond Apple's HIG, and how to move your apps out of mundane design and into innovative user experiences. Examine the characteristics and constraints of the iOS platform and how to leverage its strengths to maximum effect in your apps. iOS Wow Factor explains what makes a successful mobile app design, and how to apply those principles of success to your own apps. Once you get the iOS Wow Factor into your apps, you can watch your app adoption rate increase and gain the traction it needs to succeed and earn a profit in the Apple iTunes App Store. Find out everything you'll need to \"wow\" your future customers!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430238805"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430238801"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 139,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OYYca-T5TW8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OYYca-T5TW8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=OYYca-T5TW8C&printsec=frontcover&dq=ios&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=OYYca-T5TW8C&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iOS_Wow_Factor.html?hl=&id=OYYca-T5TW8C"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Wow_Factor-sample-epub.acsm?id=OYYca-T5TW8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Wow_Factor-sample-pdf.acsm?id=OYYca-T5TW8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OYYca-T5TW8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How can you make your app stand out from the crowd and get it the reviews it deserves? iOS Wow Factor shows you how to get noticed!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EIDDAgAAQBAJ",
+      "etag": "pacsybqXXdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EIDDAgAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS Programming: Starter Guide: What Every Programmer Needs to Know About iOS Programming",
+        "authors": [
+          "Jason Scotts"
+        ],
+        "publisher": "Speedy Publishing LLC",
+        "publishedDate": "2013-11-25",
+        "description": "What Every Programmers Need To Know About iOS Programming Exposed! iOS Programming: Starter Guide: What Every Programmer Needs to Know About iOS Programming is a precise and concise book for any programmmer to get a quick grasp of the intricacies of iOS and how to master it quickly. The book covers:- Chapter 1- What is iOS SDK? Chapter 2- How Do You Get Started With ios- C Programming? Chapter 3- What is XCode? Chapter 4- How to Design Interfaces in iOS Chapter 5- How to Develop Animations and Views in iOS Chapter 6- iOS Programming- How to Create Images, Touches and Gestures Chapter 7- How to Build Text in iOS Programming So, if you are interested in mastering iOS programming quickly and easily, this book is for you. Get it now! Other books by Jason Scotts:- 1.Python Programming Reloaded: How To Code Python Fast In Just 24 Hours With 7 Simple Steps 2.Windows 8 User Guide Reloaded: The Complete Beginners Guide + 50 Bonus Tips To Be A Power User Now 3. Raspberry Pi: The Ultimate Step by Step Raspberry Pi User Guide (The Updated Version )",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781630225445"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1630225444"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EIDDAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EIDDAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=EIDDAgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=EIDDAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EIDDAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.83,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 4.83,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=EIDDAgAAQBAJ&rdid=book-EIDDAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4830000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4830000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Programming_Starter_Guide_What_Every-sample-epub.acsm?id=EIDDAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Programming_Starter_Guide_What_Every-sample-pdf.acsm?id=EIDDAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EIDDAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chapter 4- How to Design Interfaces in iOS Chapter 5- How to Develop Animations and Views in iOS Chapter 6- iOS Programming- How to Create Images, Touches and Gestures Chapter 7- How to Build Text in iOS Programming So, if you are ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RnmrBQAAQBAJ",
+      "etag": "OCLPdBMSFs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RnmrBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Introducing iOS 8",
+        "subtitle": "Swift Programming from Idea to App Store",
+        "authors": [
+          "Steve Derico"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-12-03",
+        "description": "Learn to make iOS apps even if you have absolutely no programming experience. This hands-on book takes you from idea to App Store, using real-world examples—such as driving a car or eating at a restaurant—to teach programming and app development. You’ll learn concepts through clear, concise, jargon-free language. This book focuses on Apple’s new programming language, Swift. Each lesson is divided into two parts: the lecture portion explains the terms and concepts through examples, and the exercise portion helps you apply these concepts while building real-world apps, like a tip calculator. Learn how to think differently—and see the world from a whole new perspective. Learn the basic building blocks of programming Dive into the Swift programming language Make apps for iPhone and iPad Use GPS in your app to find a user’s location Take or select photos with your app Integrate your app with Facebook and Twitter Submit your app to the App Store Manage and market your app on the App Store",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491909102"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491909102"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 411,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RnmrBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RnmrBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=RnmrBQAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RnmrBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RnmrBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 30.74,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 30.74,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RnmrBQAAQBAJ&rdid=book-RnmrBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 30740000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 30740000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RnmrBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You’ll learn concepts through clear, concise, jargon-free language. This book focuses on Apple’s new programming language, Swift."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ymJIyHcVbfsC",
+      "etag": "N+6+1fc8XD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ymJIyHcVbfsC",
+      "volumeInfo": {
+        "title": "Core Data for iOS",
+        "subtitle": "Developing Data-Driven Applications for the iPad, iPhone, and iPod touch",
+        "authors": [
+          "Tim Isted",
+          "Tom Harrington"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2011-05-24",
+        "description": "Today, virtually every non-trivial iPhone and iPad app must manage data—quickly, smoothly, reliably, and with minimal impact on the CPU to conserve battery life. Core Data, Apple’s ready-made data persistence layer, can help you achieve all these goals. In Core Data for iOS, two leading iOS developers teach you the entire Core Data framework from the ground up. Writing for intermediate-to-advanced iOS developers, Tim Isted and Tom Harrington thoroughly explain how Core Data is used on iOS devices, introduce each of its primary classes, and show how they interact to provide amazing functionality with minimal configuration. You’ll learn how to store, fetch, and validate data; provide it efficiently to views; and much more. Isted and Harrington first give you a firm grounding in the technology, and then present real-world examples. They present multiple sample projects, as well as a start-to-finish, chapter-length case study. Coverage includes • Understanding Core Data’s features, classes, and interactions • Using Core Data in MVC-based iOS app development • Mapping relational data to object models, and building them with Xcode 4’s Data Modeler • Working with managed objects and using UITableView to display them • Creating predicates to match numbers, data, and objects • Maintaining compatibility across versions of an app’s data model • Tracking managed object contexts across view controllers • Using Core Data’s automatic Undo functionality • Integrating abstract entities, entity inheritance, and multiple view controllers into a complete app • Optimizing for iOS devices’ tight memory limits • Diagnosing and fixing common Core Data problems Introducing Addison-Wesley’s new Core Frameworks Series, written for experienced iOS developers by world-class Mac and iOS developers, these are the first comprehensive, code-rich reference guides to Apple’s Core Frameworks.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321670663"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0321670663"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.15.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ymJIyHcVbfsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ymJIyHcVbfsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=ymJIyHcVbfsC&printsec=frontcover&dq=ios&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ymJIyHcVbfsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ymJIyHcVbfsC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 15.89,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 15.89,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ymJIyHcVbfsC&rdid=book-ymJIyHcVbfsC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 15890000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 15890000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ymJIyHcVbfsC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Coverage includes • Understanding Core Data’s features, classes, and interactions • Using Core Data in MVC-based iOS app development • Mapping relational data to object models, and building them with Xcode 4’s Data Modeler • ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nU8nCgAAQBAJ",
+      "etag": "LyJ/GFvxdWs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nU8nCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning iOS 7 Development",
+        "subtitle": "Exploring the iOS SDK",
+        "authors": [
+          "Jack Nutting",
+          "David Mark",
+          "Jeff LaMarche",
+          "Fredrik Olsson"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2014-03-31",
+        "description": "The team that brought you the bestselling Beginning iPhone Development is back again for Beginning iOS 7 Development, bringing this definitive guide up-to-date with Apple's latest and greatest iOS 7 SDK, as well as with the latest version of Xcode. There’s coverage of brand-new technologies, including a new chapter on Apple's Sprite Kit framework for game development, as well as significant updates to existing material. You'll have everything you need to create your very own apps for the latest iOS devices. Every single sample app in the book has been rebuilt from scratch using latest Xcode and the latest 64-bit iOS 7-specific project templates, and designed to take advantage of the latest Xcode features. Assuming only a minimal working knowledge of Objective-C, and written in a friendly, easy-to-follow style, Beginning iOS 7 Development offers a complete soup-to-nuts course in iPhone, iPad, and iPod touch programming. The book starts with the basics, walking through the process of downloading and installing Xcode and the iOS 7 SDK, and then guides you though the creation of your first simple application. From there, you’ll learn how to integrate all the interface elements iOS users have come to know and love, such as buttons, switches, pickers, toolbars, and sliders. You’ll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs. The confusing art of table building will be demystified, and you’ll learn how to save your data using the iPhone file system. You’ll also learn how to save and retrieve your data using a variety of persistence techniques, including Core Data and SQLite. And there’s much more!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430260233"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430260238"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 705,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.8.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nU8nCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nU8nCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=nU8nCgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=nU8nCgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iOS_7_Development.html?hl=&id=nU8nCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_7_Development-sample-epub.acsm?id=nU8nCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_7_Development-sample-pdf.acsm?id=nU8nCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nU8nCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The team that brought you the bestselling Beginning iPhone Development is back again for Beginning iOS 7 Development, bringing this definitive guide up-to-date with Apple&#39;s latest and greatest iOS 7 SDK, as well as with the latest version ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "upuPDgAAQBAJ",
+      "etag": "iKUMmjAuUqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/upuPDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning Swift",
+        "subtitle": "Building Apps for MacOS, IOS, and Beyond",
+        "authors": [
+          "Paris Buttfield-Addison",
+          "Jon Manning",
+          "Tim Nugent"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-03-30",
+        "description": "Get valuable hands-on experience with Swift 3, the latest version of Apple’s programming language. With this practical guide, skilled programmers with little or no knowledge of Apple development will learn how to code with Swift 3 by developing three complete, tightly linked versions of the Notes application for the OS X, iOS, and watchOS platforms. In the process, you’ll learn Swift’s fundamentals, including its syntax and features, along with the basics of the Cocoa, CocoaTouch, and WatchKit frameworks. This book teaches you how to use common design patterns for Swift, how to structure an application for Apple’s platforms, and how to submit working apps to the App Store. Divided into four distinct parts, this book includes: Swift 2 basics: Learn Swift’s basic building blocks and features for object-oriented development OS X app development: Set up the document model, build out features, and sync data with iCloud iOS app development: Use multimedia, contacts, location, notifications, and iCloud files to build a fully featured iOS Notes app Advanced app extensions: Build an Apple Watch app, and learn how to debug, monitor, and test all three of your Swift apps",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491967034"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "149196703X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 515,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=upuPDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=upuPDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=upuPDgAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=upuPDgAAQBAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learning_Swift.html?hl=&id=upuPDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=upuPDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book teaches you how to use common design patterns for Swift, how to structure an application for Apple’s platforms, and how to submit working apps to the App Store."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kjFd2O0MonMC",
+      "etag": "nea0AvcZkK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kjFd2O0MonMC",
+      "volumeInfo": {
+        "title": "Beginning iOS 5 Development",
+        "subtitle": "Exploring the iOS SDK",
+        "authors": [
+          "David Mark",
+          "Jack Nutting",
+          "Jeff LaMarche"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2012-01-24",
+        "description": "The team that brought you the bestselling Beginning iPhone 4 Development is back again for Beginning iOS 5 Development, bringing this definitive guide up-to-date with Apple's latest and greatest iOS SDK, as well as with the latest version of Xcode. There's coverage of brand new technologies, with chapters on storyboards and iCloud, for example, as well as significant updates to existing chapters to bring them in line with all the changes that came with the iOS 5 SDK. You'll have everything you need to create your very own apps for the latest iOS devices, including the iPhone 4S, iPad 2, and the latest iPod touch. Every single sample program in the book has been rebuilt from scratch using Xcode 4.2 and the latest iOS 5-specific project templates and designed to take advantage of the latest Xcode features. Assuming only a minimal working knowledge of Objective-C, and written in a friendly, easy-to-follow style, Beginning iOS 5 Development offers a complete soup-to-nuts course in iPhone, iPad, and iPod touch programming. The book starts with the basics, walking through the process of downloading and installing Xcode and the iOS 5 SDK, and then guides you though the creation of your first simple application. From there, you'll learn how to integrate all the interface elements Apple touch users have come to know and love, such as buttons, switches, pickers, toolbars, and sliders. You'll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs. The confusing art of table building will be demystified, and you'll learn how to save your data using the iPhone file system. You'll also learn how to save and retrieve your data using a variety of persistence techniques, including Core Data and SQLite. And there's much more! You'll learn to draw using Quartz 2D and OpenGL ES, add multitouch gestural support (pinches and swipes) to your applications, and work with the camera, photo library, accelerometer, and built-in GPS. You'll discover the fine points of application preferences and learn how to localize your apps for multiple languages. The iOS 5 update to the bestselling and most recommended book for Cocoa touch developers Packed full of tricks, techniques, and enthusiasm for the new SDK from a developer perspective Written in an accessible, easy-to-follow style",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430236061"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "143023606X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 743,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kjFd2O0MonMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kjFd2O0MonMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=kjFd2O0MonMC&printsec=frontcover&dq=ios&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=kjFd2O0MonMC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iOS_5_Development.html?hl=&id=kjFd2O0MonMC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_5_Development-sample-epub.acsm?id=kjFd2O0MonMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_5_Development-sample-pdf.acsm?id=kjFd2O0MonMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kjFd2O0MonMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The team that brought you the bestselling Beginning iPhone 4 Development is back again for Beginning iOS 5 Development, bringing this definitive guide up-to-date with Apple&#39;s latest and greatest iOS SDK, as well as with the latest version ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CynuOuWZptMC",
+      "etag": "wpP7NVr1AAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CynuOuWZptMC",
+      "volumeInfo": {
+        "title": "Beginning iOS 4 Application Development",
+        "authors": [
+          "Wei-Meng Lee"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2010-09-14",
+        "description": "The ideal starting point for creating apps using iOS 4 Written by an experienced Apple developer and trainer, this full-color reference serves as an ideal jumping point for creating applications for Apple’s iOS 4 that runs on the iPhone, iPod Touch, and iPad. In addition to in-depth coverage of the iOS SDK, the book walks you through the various core aspects of iPhone and iPad development. You’ll learn how to take advantage of the tools provided by XCode and you’ll benefit from a solid introduction to Objective-C, which allows you to have a smooth transition to iPhone development from another platform. Offers a solid foundation for creating applications for Apple’s iOS 4 Covers all the new features of iOS 4 and provides a new applications template for developing iPad and iPhone apps Addresses the new PopoverView for iPad apps Shows how to develop background applications, which is one of the new features in iOS 4 Beginning iOS 4 Application Development is your ultimate resource for creating applications for Apple's iOS 4.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470949832"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "047094983X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 673,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CynuOuWZptMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CynuOuWZptMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=CynuOuWZptMC&printsec=frontcover&dq=ios&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=CynuOuWZptMC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_iOS_4_Application_Development.html?hl=&id=CynuOuWZptMC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_4_Application_Development-sample-epub.acsm?id=CynuOuWZptMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_4_Application_Development-sample-pdf.acsm?id=CynuOuWZptMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CynuOuWZptMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beginning iOS 4 Application Development: Shows how to create native iPhone and iPad applications by taking advantage of the Xcode tools and iPhone SDK Covers ways to speed development using tab bar, navigation, and utility templates ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L_zwy9hECMMC",
+      "etag": "oLlEUdQQgyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L_zwy9hECMMC",
+      "volumeInfo": {
+        "title": "iOS Game Development",
+        "subtitle": "Developing Games for iPad, iPhone, and iPod Touch",
+        "authors": [
+          "Thomas Lucka"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2013-09-04",
+        "description": "To create successful games for the iPhone family of mobile devices, developers need to know how touch-input, real-time graphics, and sound come together in the iOS environment. iOS Game Development: Developing Games for iPad, iPhone, and iPod Touch takes you from the basics of app coding to releasing and marketing your game on the App Store. The book offers a wealth of previously unpublished information about the iOS platform. The text focuses on the concrete requirements of game developers, presenting in-depth details on each step in the mobile game development process. It explains the use of OpenGL ES for 2D/3D graphics and OpenAL for sound, both of which are recommended for game performance on the iOS platform. It also covers new APIs such as the GLKit, GameKit, and Box2D Physics Engine. To better understand the explanations, the author encourages you to access more than 30 iOS example apps from his website. Each app represents a small piece of the complex field of game development in a straightforward manner. The apps can be run on any device in the iPhone family and have been extensively tested with various iOS versions. Suitable for both newcomers and more advanced developers, this color book helps you get started with iOS game development. By following the book’s clear descriptions and example programs, you will understand how to implement the fundamentals in smaller game projects and be able to create your first game for the App Store.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466569935"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "146656993X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L_zwy9hECMMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L_zwy9hECMMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=L_zwy9hECMMC&printsec=frontcover&dq=ios&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=L_zwy9hECMMC&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/iOS_Game_Development.html?hl=&id=L_zwy9hECMMC"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Game_Development-sample-pdf.acsm?id=L_zwy9hECMMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L_zwy9hECMMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book offers a wealth of previously unpublished information about the iOS platform. The text focuses on the concrete requirements of game developers, presenting in-depth details on each step in the mobile game development process."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m4pPAwAAQBAJ",
+      "etag": "2IBnCdKeE3U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m4pPAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning iOS Programming For Dummies",
+        "authors": [
+          "Rajiv Ramnath"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2014-04-03",
+        "description": "The ultimate beginner's guide to programming in the iOS environment The Apple App Store is a gold mine for developers, but with more apps for the iPhone, iPad, and iPod touch being added every day, it?s essential to have a solid programming foundation to create the best apps possible. If you're eager to learn the ins and outs of iOS programming, this is your book. It teaches object-oriented programming within the iOS framework from the ground up, preparing you to create the next super iPhone or iPad app. Get a handle on the iOS framework, object-oriented best practices, and the Xcode programming environment, then discover how to create simple interfaces, use libraries, create and extend objects, and more. Whether you're just starting out in programming or only new to iOS, For Dummies is the perfect beginning. Focuses on teaching object-oriented programming within the iOS framework and includes best practices for building apps that are easy to debug, evolve, and maintain Uses simple examples to demonstrate object-oriented programming output in the iPhone environment while teaching real-world programming concepts and applications Provides a thorough understanding of the framework and object-oriented principles to help beginning programmers make optimum use of iOS Covers working with the Xcode environment and storyboards; creating simple interfaces; using libraries, functions, structures, arrays, and pointers; and creating and extending objects Beginning iOS Programming For Dummies is your straightforward guide to getting started with iOS programming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118799314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118799313"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m4pPAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m4pPAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=m4pPAwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m4pPAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m4pPAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 20.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 20.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m4pPAwAAQBAJ&rdid=book-m4pPAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 20990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 20990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Programming_For_Dummies-sample-epub.acsm?id=m4pPAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/Beginning_iOS_Programming_For_Dummies-sample-pdf.acsm?id=m4pPAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m4pPAwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you&#39;re eager to learn the ins and outs of iOS programming, this is your book. It teaches object-oriented programming within the iOS framework from the ground up, preparing you to create the next super iPhone or iPad app."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0HJXEAAAQBAJ",
+      "etag": "WqpjxcZx2gw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0HJXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS 15 Application Development for Beginners",
+        "subtitle": "Learn Swift Programming and Build iPhone Apps with SwiftUI and Xcode 13 (English Edition)",
+        "authors": [
+          "Arpit Kulsreshtha"
+        ],
+        "publisher": "BPB Publications",
+        "publishedDate": "2021-12-31",
+        "description": "Learn iOS App development with advanced Apple technology and developer-centric tools. KEY FEATURES ● Loaded with core developer tools, including SwiftUI, Xcode, and CoreML. ● Covers app architecture, design patterns, and mobile hardware use in app development. ● Numerous examples covering database, GPS, image recognition, and ML. DESCRIPTION This book is a step-by-step, hands-on guide for Apple developers to build iOS apps using Swift programming with minimal effort. This book will help develop the knowledge and skills necessary to program Apple applications independently. This book introduces you to Swift, SwiftUI, MapKit, Xcode, and Core ML and guides you through the process of creating a strong, marketable iOS application. The book begins with the fundamentals of Swift, which will serve as the foundation for future app development. This book will help readers to develop user interfaces for iOS applications, using SwiftUI and Interface Builder, as well as the code for views, view controllers, and data managers. The book teaches how to use Core Data and SQLite to store databases. It will help you work with Apple technologies and frameworks, including Core Location and MapKit for GPS tracking, Camera and Photo Library for image storage, Core ML for machine learning, and implementations of artificial intelligence solutions. By the end of this book, you will have developed a solid foundation for writing Swift apps, utilizing best practices in architecture, and publishing them to the app store. The book successfully introduces you to the entire iOS application development journey in a manageable manner and instills an understanding of Apple apps. WHAT YOU WILL LEARN ● Develop practical skills in Swift programming, Xcode, and SwiftUI. ● Learn to work around the database, file handling, and networking while building apps. ● Utilize the capabilities of mobile hardware to include sound, images, and videos. ● Bring machine learning capabilities using the Core ML framework. ● Integrate features such as App Gestures and Core Location into iOS applications. ● Utilize mobile design patterns and maintain a clean coding style. WHO THIS BOOK IS FOR This book is ideal for beginners in programming, students, and professionals interested in learning how to program in iOS, use various developer tools, and create Apple apps. Working knowledge of any programming language is an advantage but not required. TABLE OF CONTENTS 1. Getting Started with Xcode 2. Swift Fundamentals 3. Classes, Struct, and Enumerations 4. Protocols, Extensions, and Error Handling 5. TabBar, TableView, and CollectionView 6. User Interface Design with SwiftUI 7. Database with SQLite and Core Data 8. File Handling in iOS 9. App Gesture Recognizers in iOS 10. Core Location with MapKit 11. Camera And Photo Library 12. Machine Learning with Core ML 13. Networking in iOS Apps 14. Mobile App Patterns and Architectures 15. Publish iOS App on App Store",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789355511102"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9355511108"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 382,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0HJXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0HJXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=0HJXEAAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0HJXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0HJXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14.19,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 14.19,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0HJXEAAAQBAJ&rdid=book-0HJXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14190000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14190000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_15_Application_Development_for_Begin-sample-epub.acsm?id=0HJXEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_15_Application_Development_for_Begin-sample-pdf.acsm?id=0HJXEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0HJXEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will help develop the knowledge and skills necessary to program Apple applications independently."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rqtLzQEACAAJ",
+      "etag": "O0CFf2iG6yg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rqtLzQEACAAJ",
+      "volumeInfo": {
+        "title": "Take Control of IOS 13 and IPadOS 13",
+        "authors": [
+          "Josh Centers"
+        ],
+        "publishedDate": "2019",
+        "description": "Learn how to make the most of Apple's mobile operating systems! The latest annual update to iOS features the usual selection of new features, improved user interface, and security enhancements. It also marks the split of Apple's mobile operating system into iOS (for iPhone and iPod touch) and iPadOS (for iPad only). This is more than just a name change; with iPadOS 13, the iPad gets huge improvements that bring it much closer to the computing power and flexibility we expect from conventional computers. TidBITS Managing Editor Josh Centers is back to guide you through all the major capabilities of both operating systems in this new book. Take Control of iOS 13 and iPadOS 13 goes far beyond the new features, providing an extensive guide to getting the most out of iOS 13 and iPadOS 13. Among other things, you'll learn how to: New! Discover all the major changes in iOS and iPadOS New! Use activity views (which replace Share sheets and are for more than just sharing) New! Enable Dark Mode on your mobile device Updated! Use the new Find My app New! Make the most of improved text editing tools Updated! Use Siri and Shortcuts to do even more than before, thanks to significantly expanded capabilities New! Use accessibility improvements, including voice control and mouse support Updated! Discover the new (and existing) capabilities of Apple's upgraded apps--including Files, Mail, Maps, Messages, Notes, and Reminders Updated! Use Screen Time to make better choices about when and how you use your device New! Work with the updated iPad Home screen, Dock, and onscreen keyboard New! Learn about the new iPad multitasking capabilities, including more ways to split the screen, use multiple windows, and drag & drop between apps New! Browse the web with ease using the desktop-class Safari for iPadOS New! Use the significantly updated Camera and Photos apps to take photos and videos, apply camera effects, and organize your media Make sense of the Lock screen, Home screen, and Control Center--and customize them to meet your needs Search with Spotlight Switch between apps and use Handoff to transfer your work Navigate the App Store Understand the ins and outs of Family Sharing Manage your data--both locally on your device and in the cloud Make calls and use FaceTime and Voicemail Organize your Wallet and use Apple Pay Protect your privacy Improve your battery life ... and much more! Anyone with a compatible iPhone, iPad, or iPod touch will benefit from Josh's in-depth ...",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1125068261"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 202,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=rqtLzQEACAAJ&dq=ios&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.pt/books?id=rqtLzQEACAAJ&dq=ios&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Take_Control_of_IOS_13_and_IPadOS_13.html?hl=&id=rqtLzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rqtLzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is more than just a name change; with iPadOS 13, the iPad gets huge improvements that bring it much closer to the computing power and flexibility we expect from conventional computers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "55C7CwAAQBAJ",
+      "etag": "HjqHVbzKekw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/55C7CwAAQBAJ",
+      "volumeInfo": {
+        "title": "iOS Apps for Masterminds, 2nd Edition",
+        "subtitle": "How to take advantage of Swift 3 to create insanely great apps for iPhones and iPads",
+        "authors": [
+          "J.D Gauchat"
+        ],
+        "publisher": "MinkBooks",
+        "publishedDate": "2016-03-10",
+        "description": "Get ahead of everyone else and learn the latest technologies introduced by Apple. This is the first book to teach you how to work with Swift 3, Xcode 8, iOS 10 and the new APIs. iOS Apps for Masterminds leads the reader step by step to master the complex subjects required to create applications for iPhones and iPads. After reading this book, you will know how to program in Swift, how to design user interfaces, and how to work with the most powerful frameworks available for the construction of modern applications. This book is a complete course that will teach you how to build insanely great applications from scratch. Every chapter explores both basic and complicated concepts of computer programming, the Swift language, and app development. The information is supported by fully functional examples to guide beginners and experts through every single framework included in the iOS SDK. The examples are distributed throughout the book in a specific order to gradually introduce complex topics and make them accessible to everyone. The goal of iOS Apps for Masterminds is to make you familiar with the most advanced technologies for app development. It was designed to prepare you for the future and was written for the genius inside you, for Masterminds. This book includes: Introduction to Swift 3 Swift Paradigm Foundation Framework UIKit Framework Auto Layout Size Classes Navigation Controllers Scroll Views Table Views Collection Views Split View Controller Alert Views Notifications Files Archiving Core Data iCloud Core Graphics and Quartz 2D Core Animation AVFoundation Camera and Photo Library Web Views Contacts Sensors MapKit Gesture Recognizers Timers Operation Queues Error Handling Image and Video Internationalization ...and more! iOS app development with iOS 10, Xcode 8 and Swift 3App development, Swift programming, Create apps, Create app, iPhone apps, Build app, Swift language, develop application, Objective-C, Apple development, iOS development, iOS Apps, Program apps.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1028,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=55C7CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=55C7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pt/books?id=55C7CwAAQBAJ&printsec=frontcover&dq=ios&hl=&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=55C7CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=55C7CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PT",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.67,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.67,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=55C7CwAAQBAJ&rdid=book-55C7CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9670000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9670000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PT",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Apps_for_Masterminds_2nd_Edition-sample-epub.acsm?id=55C7CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pt/books/download/iOS_Apps_for_Masterminds_2nd_Edition-sample-pdf.acsm?id=55C7CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=55C7CwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book includes: Introduction to Swift 3 Swift Paradigm Foundation Framework UIKit Framework Auto Layout Size Classes Navigation Controllers Scroll Views Table Views Collection Views Split View Controller Alert Views Notifications Files ..."
+      }
+    }
+  ]
+}
