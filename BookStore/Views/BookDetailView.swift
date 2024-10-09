@@ -53,7 +53,7 @@ final class BookDetailView: UIView {
         updateFavoriteButton()
                 
         // Configure Author Label
-        authorLabel.text = "\(String(localized: "book_detail_author_by_prefix"))\(viewModel.author)"
+        authorLabel.text = viewModel.authoredBy
         authorLabel.font = .italicSystemFont(ofSize: 18)
         authorLabel.numberOfLines = 0
         contentView.addSubview(authorLabel)
@@ -70,7 +70,7 @@ final class BookDetailView: UIView {
 
         // Configure Buy Button
         if viewModel.buyLink != nil {
-            buyButton.setTitle(String(localized: "book_detail_buy_button_title"), for: .normal)
+            buyButton.setTitle(viewModel.buyButtonTitle, for: .normal)
             buyButton.addTarget(self, action: #selector(buyButtonTapped), for: .touchUpInside)
             addSubview(buyButton)
         }

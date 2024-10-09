@@ -12,9 +12,10 @@ extension BookDetailView {
         // MARK: - Public properties
         let id: String
         let title: String
-        let author: String
+        let authoredBy: String
         let formattedDescription: NSAttributedString
         let buyLink: URL?
+        let buyButtonTitle: String?
         var isFavorite: Bool {
             get {
                 DataManager.LocalData.favoriteIds.contains(id)
@@ -32,7 +33,8 @@ extension BookDetailView {
         init(book: Book) {
             self.id = book.id
             self.title = book.volumeInfo.title
-            self.author = book.volumeInfo.authors?.joined(separator: String(localized: "book_detail_authors_separator")) ?? String(localized: "book_detail_default_author")
+            let authors = book.volumeInfo.authors?.joined(separator: String(localized: "book_detail_authors_separator")) ?? String(localized: "book_detail_default_author")
+            self.authoredBy = "\(String(localized: "book_detail_author_by_prefix"))\(authors)"
             
             // Setup the attributted string for formattedDescription
             let descriptionString = book.volumeInfo.description ?? String(localized: "book_detail_default_description")
@@ -51,6 +53,8 @@ extension BookDetailView {
             
             // flatMap safely handles both the case where buyLink is nil and where the URL initialization fails, ensuring that the result is either a valid URL? or nil, without nesting optionals.
             self.buyLink = book.saleInfo.buyLink.flatMap { URL(string: $0) }
+            
+            self.buyButtonTitle = self.buyLink != nil ? String(localized: "book_detail_buy_button_title") : nil
         }
     }
 }

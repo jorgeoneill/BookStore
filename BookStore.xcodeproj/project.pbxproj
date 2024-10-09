@@ -14,19 +14,11 @@
 			remoteGlobalIDString = F58A551D2CB4308C00EFB8FC;
 			remoteInfo = BookStore;
 		};
-		F58A55422CB4308E00EFB8FC /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = F58A55162CB4308C00EFB8FC /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F58A551D2CB4308C00EFB8FC;
-			remoteInfo = BookStore;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		F58A551E2CB4308C00EFB8FC /* BookStore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BookStore.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F58A55372CB4308E00EFB8FC /* BookStoreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookStoreTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F58A55412CB4308E00EFB8FC /* BookStoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BookStoreUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -53,11 +45,6 @@
 			path = BookStoreTests;
 			sourceTree = "<group>";
 		};
-		F58A55442CB4308E00EFB8FC /* BookStoreUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BookStoreUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,13 +62,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F58A553E2CB4308E00EFB8FC /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -90,7 +70,6 @@
 			children = (
 				F58A55202CB4308C00EFB8FC /* BookStore */,
 				F58A553A2CB4308E00EFB8FC /* BookStoreTests */,
-				F58A55442CB4308E00EFB8FC /* BookStoreUITests */,
 				F58A551F2CB4308C00EFB8FC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -100,7 +79,6 @@
 			children = (
 				F58A551E2CB4308C00EFB8FC /* BookStore.app */,
 				F58A55372CB4308E00EFB8FC /* BookStoreTests.xctest */,
-				F58A55412CB4308E00EFB8FC /* BookStoreUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -153,29 +131,6 @@
 			productReference = F58A55372CB4308E00EFB8FC /* BookStoreTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F58A55402CB4308E00EFB8FC /* BookStoreUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = F58A55522CB4308E00EFB8FC /* Build configuration list for PBXNativeTarget "BookStoreUITests" */;
-			buildPhases = (
-				F58A553D2CB4308E00EFB8FC /* Sources */,
-				F58A553E2CB4308E00EFB8FC /* Frameworks */,
-				F58A553F2CB4308E00EFB8FC /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				F58A55432CB4308E00EFB8FC /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				F58A55442CB4308E00EFB8FC /* BookStoreUITests */,
-			);
-			name = BookStoreUITests;
-			packageProductDependencies = (
-			);
-			productName = BookStoreUITests;
-			productReference = F58A55412CB4308E00EFB8FC /* BookStoreUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -190,10 +145,6 @@
 						CreatedOnToolsVersion = 16.0;
 					};
 					F58A55362CB4308E00EFB8FC = {
-						CreatedOnToolsVersion = 16.0;
-						TestTargetID = F58A551D2CB4308C00EFB8FC;
-					};
-					F58A55402CB4308E00EFB8FC = {
 						CreatedOnToolsVersion = 16.0;
 						TestTargetID = F58A551D2CB4308C00EFB8FC;
 					};
@@ -215,7 +166,6 @@
 			targets = (
 				F58A551D2CB4308C00EFB8FC /* BookStore */,
 				F58A55362CB4308E00EFB8FC /* BookStoreTests */,
-				F58A55402CB4308E00EFB8FC /* BookStoreUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -229,13 +179,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		F58A55352CB4308E00EFB8FC /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F58A553F2CB4308E00EFB8FC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -259,13 +202,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F58A553D2CB4308E00EFB8FC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -273,11 +209,6 @@
 			isa = PBXTargetDependency;
 			target = F58A551D2CB4308C00EFB8FC /* BookStore */;
 			targetProxy = F58A55382CB4308E00EFB8FC /* PBXContainerItemProxy */;
-		};
-		F58A55432CB4308E00EFB8FC /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = F58A551D2CB4308C00EFB8FC /* BookStore */;
-			targetProxy = F58A55422CB4308E00EFB8FC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -495,40 +426,6 @@
 			};
 			name = Release;
 		};
-		F58A55532CB4308E00EFB8FC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5SGX34KZHL;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = jorge.oneill.BookStoreUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = BookStore;
-			};
-			name = Debug;
-		};
-		F58A55542CB4308E00EFB8FC /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 5SGX34KZHL;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = jorge.oneill.BookStoreUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = BookStore;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -555,15 +452,6 @@
 			buildConfigurations = (
 				F58A55502CB4308E00EFB8FC /* Debug */,
 				F58A55512CB4308E00EFB8FC /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		F58A55522CB4308E00EFB8FC /* Build configuration list for PBXNativeTarget "BookStoreUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F58A55532CB4308E00EFB8FC /* Debug */,
-				F58A55542CB4308E00EFB8FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
