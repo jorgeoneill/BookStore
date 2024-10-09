@@ -63,7 +63,7 @@ final class BookDetailView: UIView {
         descriptionTextView.font = .systemFont(ofSize: 16)
         //descriptionLabel.numberOfLines = 0
         descriptionTextView.isScrollEnabled = false
-        descriptionTextView.textContainerInset = UIEdgeInsets(top: 10, left: 16, bottom: 10, right: 16)  // Adds padding inside the text view
+        descriptionTextView.textContainerInset = UIEdgeInsets(top: 10, left: 10, bottom: 10, right: 10)
         descriptionTextView.backgroundColor = .clear
         descriptionTextView.isEditable = false
         contentView.addSubview(descriptionTextView)
@@ -112,7 +112,6 @@ final class BookDetailView: UIView {
         // Check if the buyButton was added
         if buyButton.superview != nil {
             buyButton.translatesAutoresizingMaskIntoConstraints = false
-            
             buyButton.topAnchor.constraint(equalTo: descriptionTextView.bottomAnchor, constant: 20).isActive = true
             buyButton.centerXAnchor.constraint(equalTo: contentView.centerXAnchor).isActive = true
             // If the buyButton is added, ensure the contentView bottom is aligned with it as the last visible element

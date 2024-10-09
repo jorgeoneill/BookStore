@@ -100,6 +100,17 @@
         }
       }
     },
+    "main_view_empty_list_message" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No books to display"
+          }
+        }
+      }
+    },
     "navigation_title" : {
       "extractionState" : "manual",
       "localizations" : {

@@ -33,14 +33,19 @@ extension MainView {
         var booksToDisplay: [Book] {
             shouldDisplayFavorites ? favoriteBooks : allBooks
         }
+        let emptyListMessage = String(localized: "main_view_empty_list_message")
         
         // MARK: - Public methods
         func bookCellViewModel(at index: Int) -> BookCellView.ViewModel {
             BookCellView.ViewModel(book: booksToDisplay[index])
         }
         
-        func book(at index: Int) -> Book {
-            booksToDisplay[index]
+        func book(at index: Int) -> Book? {
+            guard index >= 0 && index < booksToDisplay.count else {
+                print("Index \(index) out of bounds for booksToDisplay array.")
+                return nil
+            }
+            return booksToDisplay[index]
         }
         
         func toggleFavorites() {

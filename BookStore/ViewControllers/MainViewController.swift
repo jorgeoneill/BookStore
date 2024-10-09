@@ -17,6 +17,7 @@ final class MainViewController: UIViewController {
     // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .systemBackground  // Adapts to light/dark mode
         setupNavigationBar()
         setupMainView()
         setupConstraints()
@@ -24,6 +25,11 @@ final class MainViewController: UIViewController {
             self?.displayBookDetail(book: book)
         }
         loadDataTask()
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        mainViewModel.onDataUpdated?()
     }
     
     private func loadDataTask() {
@@ -103,5 +109,4 @@ final class MainViewController: UIViewController {
             }))
         self.present(alert, animated: true, completion: nil)
     }
-    
 }
