@@ -49,15 +49,12 @@ extension MainView {
             onDataUpdated?()
         }
         
-        func getBooks() async {
-            do {
-                // allBooks = try await DataManager.LocalData.getMockedBooks() - Uncomment to use mocked data
-                allBooks = try await DataManager.NetworkData.fetchBooks()
-                // Notify the view that data is updated
-                onDataUpdated?()
-            } catch {
-                print("[MainView.ViewModel] Failed to fetch books: \(error).")
-            }
+        func getBooks() async throws {
+            // Uncomment below to use mocked data
+            //allBooks = try await DataManager.LocalData.getMockedBooks()
+            allBooks = try await DataManager.NetworkData.fetchBooks()
+            // Notify the view that data is updated
+            onDataUpdated?()
         }
     }
 }

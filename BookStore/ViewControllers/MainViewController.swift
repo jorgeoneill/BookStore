@@ -23,10 +23,23 @@ final class MainViewController: UIViewController {
         mainViewModel.onBookSelected = { [weak self] book in
             self?.displayBookDetail(book: book)
         }
+        loadDataTask()
+    }
+    
+    private func loadDataTask() {
         Task {
-            await mainViewModel.getBooks()
+            do {
+                try await mainViewModel.getBooks()
+            } catch {
+                self.displayError(
+                    alertTitle: String(localized: "data_unavailable_error_title"),
+                    alertMessage: error.localizedDescription,
+                    buttonAction: self.loadDataTask
+                )
+            }
         }
     }
+
     
     // MARK: - Private methods
     private func setupNavigationBar() {
@@ -71,4 +84,24 @@ final class MainViewController: UIViewController {
         mainViewModel.toggleFavorites()
         updateBarButton()
     }
+    
+    private func displayError(
+        alertTitle: String,
+        alertMessage: String,
+        buttonTitle: String? = String(localized: "ok_button"),
+        buttonAction: (() -> Void)? = nil
+    ) {
+        let alert = UIAlertController(
+            title: alertTitle,
+            message: alertMessage,
+            preferredStyle: .alert
+        )
+        alert.addAction(UIAlertAction(
+            title: buttonTitle, style: .default,
+            handler: {_ in
+            buttonAction?()
+            }))
+        self.present(alert, animated: true, completion: nil)
+    }
+    
 }
