@@ -11,7 +11,7 @@ enum DataManager {
     private static let cache = NSCache<NSString, UIImage>()
 
     enum NetworkData {
-        // MARK: data fetching methods
+        // MARK: public methods
         static func fetchBooks(
             maxResults: Int? = Constants.API.maxResults,
             startIndex: Int? = nil
@@ -39,7 +39,7 @@ enum DataManager {
             
             let books = bookResponse.items
             
-            print("[DataManager] \(books.count) books retrieved from network")
+            print("[DataManager] \(books.count) books retrieved from network.")
             
             return books
         }
@@ -54,21 +54,20 @@ enum DataManager {
             
             // Return image from cache if available
             if let cachedImage = cache.object(forKey: cacheKey) {
-                print("[DataManager] image retrieved from cache: \(cacheKey)")
+                print("[DataManager] image retrieved from cache: \(cacheKey).")
                 return cachedImage
             }
             
             // Return image from network if available and save it to cache
             let image = try await fetchImage(from: url)
-            print("[DataManager] image retrieved form network: \(url)")
+            print("[DataManager] image retrieved form network: \(url).")
             cache.setObject(image, forKey: cacheKey)
             return image
 
         }
         
-
-        
-        static func fetchImage(from url: URL?) async throws -> UIImage {
+        // MARK: private methods
+        static private func fetchImage(from url: URL?) async throws -> UIImage {
             guard let url else {
                 throw NetworkError.invalidURL
             }
@@ -142,5 +141,35 @@ enum DataManager {
             print("[DataManager] \(books.count) books retrieved from mocked API.")
             return books
         }
+        
+        // MARK: - User defaults
+        static var favoriteIds: Set<String> {
+            get {
+                guard let value = UserDefaults.standard.array(forKey: Constants.UserDefaultsKeys.favoriteIds) as? [String] else {
+                    return Set<String>()
+                }
+                
+                let favoriteIdsSet = Set(value)
+                return favoriteIdsSet
+            }
+            set {
+                let favoriteIdsArray = Array(newValue)
+                UserDefaults.standard.set(favoriteIdsArray, forKey: Constants.UserDefaultsKeys.favoriteIds)
+            }
+        }
+        
+        static var shouldDisplayFavorites: Bool {
+            get {
+                guard let value = UserDefaults.standard.object(forKey: Constants.UserDefaultsKeys.shouldDisplayFavorites) as? Bool else {
+                    return false
+                }
+                
+                return value
+            }
+            set {
+                UserDefaults.standard.set(newValue, forKey: Constants.UserDefaultsKeys.shouldDisplayFavorites)
+            }
+        }
+
     }
 }

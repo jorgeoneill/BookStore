@@ -33,8 +33,15 @@ enum Constants {
     }
     
     enum UI {
-        static let favoritesSymbolName = "heart.fill"
+        static let favoriteOnSymbolName = "heart.fill"
+        static let favoriteOffSymbolName = "heart"
         static let bookCellViewIdentifier = "BookCell"
         static let genericPadding: CGFloat = 16.0
+    }
+    
+    enum UserDefaultsKeys {
+        static let favoriteIds = "favoriteIds"
+        static let shouldDisplayFavorites = "shouldDisplayFavorites"
+
     }
 }

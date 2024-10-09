@@ -14,6 +14,7 @@ struct BookResponse: Decodable {
 struct Book: Decodable {
     let id: String
     let volumeInfo: VolumeInfo
+    let saleInfo: SaleInfo
 }
 
 struct VolumeInfo: Decodable {
@@ -26,4 +27,8 @@ struct VolumeInfo: Decodable {
     struct ImageLinks: Decodable {
         let thumbnail: String
     }
+}
+
+struct SaleInfo: Decodable {
+    let buyLink: String?
 }

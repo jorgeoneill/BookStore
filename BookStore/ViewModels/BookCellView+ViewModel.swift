@@ -12,24 +12,14 @@ extension BookCellView {
         // MARK: - Private properties
         private let book: Book
         private var thumbnailImage: UIImage?
-        
-
-        /*
-        var title: String {
-            return book.volumeInfo.title
-        }
-         
-         */
-        
         private var thumbnailURL: URL? {
-            return URL(string: book.volumeInfo.imageLinks?.thumbnail ?? "")
+            URL(string: book.volumeInfo.imageLinks?.thumbnail ?? "")
         }
         
         // MARK: - Lifecycle
         init(book: Book) {
             self.book = book
         }
-        
         
         // MARK: - Public methods
         func fetchThumbnailImage() async -> UIImage? {
@@ -41,11 +31,9 @@ extension BookCellView {
                 thumbnailImage = try await DataManager.NetworkData.getImage(from: url)
                 return thumbnailImage
             } catch {
-                print("[BookCellView.ViewModel] Failed to fetch image: \(error)")
+                print("[BookCellView.ViewModel] Failed to fetch image: \(error).")
                 return nil
             }
         }
     }
 }
-
-

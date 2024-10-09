@@ -11,30 +11,53 @@ extension MainView {
     final class ViewModel {
        
         // MARK: - Private properties
-        private var books: [Book] = []
+        private var allBooks: [Book] = []
         
         // MARK: - Public properties
+        var shouldDisplayFavorites: Bool {
+            get {
+                DataManager.LocalData.shouldDisplayFavorites
+            }
+            set {
+                DataManager.LocalData.shouldDisplayFavorites = newValue
+            }
+        }
         var onDataUpdated: (() -> Void)?
-        
+        var onBookSelected: ((Book) -> Void)?
         var numberOfBooks: Int {
-            return books.count
+            booksToDisplay.count
+        }
+        var favoriteBooks: [Book] {
+            allBooks.filter { DataManager.LocalData.favoriteIds.contains($0.id) }
+        }
+        var booksToDisplay: [Book] {
+            shouldDisplayFavorites ? favoriteBooks : allBooks
         }
         
         // MARK: - Public methods
         func bookCellViewModel(at index: Int) -> BookCellView.ViewModel {
-            return BookCellView.ViewModel(book: books[index])
+            BookCellView.ViewModel(book: booksToDisplay[index])
+        }
+        
+        func book(at index: Int) -> Book {
+            booksToDisplay[index]
+        }
+        
+        func toggleFavorites() {
+            shouldDisplayFavorites.toggle()
+            // Notify the view that data is updated
+            onDataUpdated?()
         }
         
         func getBooks() async {
             do {
-                books = try await DataManager.NetworkData.fetchBooks()
-                //books = try await DataManager.LocalData.getMockedBooks()
+                // allBooks = try await DataManager.LocalData.getMockedBooks() - Uncomment to use mocked data
+                allBooks = try await DataManager.NetworkData.fetchBooks()
                 // Notify the view that data is updated
                 onDataUpdated?()
             } catch {
-                print("[MainView.ViewModel] Failed to fetch books: \(error)")
+                print("[MainView.ViewModel] Failed to fetch books: \(error).")
             }
         }
-        
     }
 }

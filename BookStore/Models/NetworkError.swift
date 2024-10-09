@@ -8,7 +8,5 @@
 enum NetworkError: Error {
     case invalidURL
     case invalidServerResponse
-    case emptyData
     case invalidImageData
-    case noInternetConnection
 }

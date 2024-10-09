@@ -11,10 +11,11 @@ final class MainView: UIView {
     
     // MARK: - Private properties
     private var collectionView: UICollectionView!
-    private var viewModel: MainView.ViewModel
     
+    private var viewModel: ViewModel
+        
     // MARK: - Lifecycle
-    init(viewModel: MainView.ViewModel) {
+    init(viewModel: ViewModel) {
         self.viewModel = viewModel
         super.init(frame: .zero)
         setupCollectionView()
@@ -35,7 +36,7 @@ final class MainView: UIView {
     private func setupCollectionView() {
         let layout = UICollectionViewFlowLayout()
         collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)
-       // collectionView.delegate = self
+        collectionView.delegate = self
         collectionView.dataSource = self
         collectionView.register(BookCellView.self, forCellWithReuseIdentifier: BookCellView.identifier)
         addSubview(collectionView)
@@ -69,7 +70,7 @@ final class MainView: UIView {
 // MARK: - Collection view data source methods
 extension MainView: UICollectionViewDataSource {
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return viewModel.numberOfBooks
+        viewModel.numberOfBooks
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
@@ -80,5 +81,13 @@ extension MainView: UICollectionViewDataSource {
         let cellViewModel = viewModel.bookCellViewModel(at: indexPath.item)
         cell.configure(with: cellViewModel)
         return cell
+    }
+}
+
+// MARK: - Collection view data delegate methods
+extension MainView: UICollectionViewDelegate {
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        let selectedBook = viewModel.book(at: indexPath.item)
+        viewModel.onBookSelected?(selectedBook)
     }
 }
